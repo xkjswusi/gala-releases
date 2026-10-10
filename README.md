@@ -10,7 +10,7 @@ The app is also available on Google Play.
 
 ## About
 
-Visit [Coldscholar Studio](https://coldscholarstudio.org/apps/gala) for more information.
+Visit [Coldscholar Studio - Apps: GALA](https://coldscholarstudio.org/apps/gala) for more information.
 
 ## Licensing
 
